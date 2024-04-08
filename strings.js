@@ -75,7 +75,7 @@ loadTimeData.data = {
   themeSelectLabel: "Theme",
   timetrialBestScore: -1,
   timetrialDescriptor: "time",
-  timetrialModeTitleInline: "Time trial:",
+  timetrialModeTitleInline: "Teste contra-relógio:",
   timetrialTitle: "Contra-relógio",
   timetrialUnit: "s",
   touchAction: "toque duplo",
